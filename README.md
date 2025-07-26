@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammad Saqib
 
-<!--
-**Msaqib295/Msaqib295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nice to see you here!
 
-Here are some ideas to get you started:
+I'm currently studying Artificial Intelligence and love building mobile apps with Flutter. I enjoy solving small problems with code, exploring new tools, and just seeing how far I can push my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mostly work in Flutter and Dart, but I’ve also been learning C#, SQL, and Python along the way. I'm still early in the journey and learning every day, but I enjoy keeping things clean, simple, and useful.
+
+---
+
+## 🔧 Tools & Tech I Use
+- Flutter & Dart
+- C# (Windows Forms)
+- SQL & MySQL
+- Python (for fun and small projects)
+- Git & GitHub (version control is life)
+
+---
+
+## 🎯 A Few Things I'm Working Toward
+- Getting better at building polished apps
+- Writing cleaner, more readable code
+- Publishing more personal projects
+- Learning from the dev community around me
+
+---
+
+## 📫 You can find me here:
+- GitHub: [@Msaqib295](https://github.com/Msaqib295)
+
+---
+
+Thanks for checking out my profile — feel free to look around or reach out if you want to connect!

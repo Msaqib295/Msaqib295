@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammad Saqib
+# Hi, I'm Mohammad Saqib
 
 Nice to see you here!
 
@@ -8,7 +8,7 @@ I mostly work in Flutter and Dart, but I’ve also been learning C#, SQL, and Py
 
 ---
 
-## 🔧 Tools & Tech I Use
+## Tools & Tech I Use
 - Flutter & Dart
 - C# (Windows Forms)
 - SQL & MySQL
@@ -17,7 +17,7 @@ I mostly work in Flutter and Dart, but I’ve also been learning C#, SQL, and Py
 
 ---
 
-## 🎯 A Few Things I'm Working Toward
+## A Few Things I'm Working Toward
 - Getting better at building polished apps
 - Writing cleaner, more readable code
 - Publishing more personal projects
@@ -25,7 +25,7 @@ I mostly work in Flutter and Dart, but I’ve also been learning C#, SQL, and Py
 
 ---
 
-## 📫 You can find me here:
+## You can find me here:
 - GitHub: [@Msaqib295](https://github.com/Msaqib295)
 
 ---

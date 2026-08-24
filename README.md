@@ -8,11 +8,11 @@ I mostly work in Flutter and Dart, but I’ve also been learning C#, SQL, and Py
 
 ---
 
-## Tools & Tech I Use
+## Tools & Tech I have used
+- Python (for fun and small AI projects)
 - Flutter & Dart
 - C# (Windows Forms)
 - SQL & MySQL
-- Python (for fun and small projects)
 - Git & GitHub (version control is life)
 
 ---

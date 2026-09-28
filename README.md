@@ -9,11 +9,11 @@ I mostly work in Flutter and Dart, but I’ve also been learning C#, SQL, and Py
 ---
 
 ## Tools & Tech I have used
-- Python (for fun and small AI projects)
+- Python (for small AI projects)
 - Flutter & Dart
 - C# (Windows Forms)
 - SQL & MySQL
-- Git & GitHub (version control is life)
+- Git & GitHub 
 
 ---
 
@@ -26,8 +26,8 @@ I mostly work in Flutter and Dart, but I’ve also been learning C#, SQL, and Py
 ---
 
 ## You can find me here:
-- GitHub: [@Msaqib295](https://github.com/Msaqib295)
+- LinkedIn - [in/muhammad-saqib-721a25328]
 
 ---
 
-Thanks for checking out my profile — feel free to look around or reach out if you want to connect!
+Thanks for checking out my profile, feel free to look around or reach out if you want to connect!
